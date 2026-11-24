@@ -57,3 +57,5 @@ The Excel workbook contains three worksheets:
 ## Project Objective
 
 The objective is to demonstrate how spreadsheet tools can transform transaction-level data into useful business summaries, comparisons, trends, and a presentation-ready dashboard.
+
+![Car Showroom Dashboard](Dashboard_Preview.png)
